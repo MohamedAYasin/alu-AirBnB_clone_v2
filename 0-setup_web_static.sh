@@ -15,7 +15,7 @@ sudo echo "<html>
 <head>
 </head>
 <body>
-    African Leadership University
+    Holberton School X African Leadership University
 </body>
 </html>" | sudo tee /data/web_static/releases/test/index.html
 
